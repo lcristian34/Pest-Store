@@ -1,5 +1,5 @@
 ## Pest Store
-> List three items that can be added to a cart and it displays the final cost of purchase/
+> List three items that can be added to a cart and it displays the final cost of purchase.
 
 
 ![](header.png)
